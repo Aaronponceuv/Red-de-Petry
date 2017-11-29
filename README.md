@@ -1,4 +1,4 @@
-# Red de Petry
+# Red de Petri
 
 **Integrantes**
 
